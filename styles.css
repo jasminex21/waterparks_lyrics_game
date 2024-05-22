@@ -1,0 +1,103 @@
+* {
+  font-weight: bolder !important;
+}
+
+p, ol, ul, .control-label, .shiny-text-output {
+  font-size: 18px !important;
+}
+
+#submit {
+  background-color: #718070 !important;
+}
+
+#randGenerated {
+  padding-left: 20px;
+  font-size: 18px !important;
+  color: white;
+}
+
+.control-label {
+  font-weight: bold;
+  font-size: larger !important;
+}
+
+.randGenDiv {
+  background-color: rgba(255, 255, 255, 0.2);
+  border-radius: 20px;
+}
+
+#hintButton {
+  background-color: #C99E6F !important;
+}
+
+#giveUpButton {
+  background-color: #C46F6F !important;
+}
+
+#button {
+  background-color: #B5B9DD !important;
+}
+
+.btn {
+  font-weight: bold;
+  border-radius: 25px !important;
+  padding: 3px 15px !important;
+  font-size: 16px !important;
+  border: solid;
+}
+
+#guessFeedback, #printHint, #printAnswer {
+  font-size: 18px !important;
+  color: white;
+}
+
+#totalRounds, #totalCorrect, #pointsProp {
+  font-size: 18px !important;
+}
+
+.form-control {
+  width: 120% !important;
+  border-radius: 20px !important;
+  height: fit-content !important;
+}
+
+.well, .selectize-input {
+  border-radius: 20px !important;
+  background-color: #E1C4E1;
+}
+
+.selectize-input {
+  font-size: 15px;
+}
+
+.main-header {
+  font-size: larger;
+}
+
+.lyricCard {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.bslib-sidebar-layout>.sidebar {
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+.html-fill-container>.html-fill-item.bslib-mb-spacing {
+  border-color: rgba(255, 255, 255, 0.0);
+}
+
+.bslib-sidebar-layout>.main {
+  padding: 10px;
+}
+
+.important-note {
+  color: firebrick;
+}
+
+.shiny-options-group {
+  max-width: 500px !important;
+}
+
+h1, .main {
+  color: white;
+}
